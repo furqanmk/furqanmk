@@ -3,14 +3,14 @@
 My name is Furqan (pronounced: für-kahn) and I have been coding since I was 12. I worked on iOS and Android apps before finding myself solving backend and infrastructure problems. I have enjoyed my time writing code in Swift, Kotlin and Go. Python could be next, let's see.
 
 ### 💙 I love...
-- volunteering. I co-founded an NGO when I was 20; it still helps hundreds of underserved families.
-- reading about history, philosophy, politics and physics.
-- all racquet sports.
+- volunteering. I co-founded an NGO when I was 20; it still helps hundreds of underserved families
+- reading about history, philosophy, politics and physics
+- all racquet sports
 
 ### 🌱 Currently learning...
-- AI ethics.
-- Arabic.
-- Secrets of happiness.
+- AI ethics
+- Arabic
+- Secrets of happiness
 
 ### 👷‍♂️ I have contributed to projects at...
 - [Wattpad](https://github.com/wattpad)
